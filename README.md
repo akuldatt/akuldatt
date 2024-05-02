@@ -29,7 +29,7 @@ Here are some projects I've worked on:
 
 ## Get in Touch
 
-I'm always eager to collaborate on new projects or discuss exciting opportunities. Feel free to reach out to me via [email](akuldatt08@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/akul-datt-02b563219/).
+I'm always eager to collaborate on new projects or discuss exciting opportunities. Feel free to reach out to me via [email](mailto:akuldatt08@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/akul-datt-02b563219/).
 
 Thanks for visiting! 😊
 

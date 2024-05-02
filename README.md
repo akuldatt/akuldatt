@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a recent BCA graduate with a passion for data 
 
 Here are some projects I've worked on:
 
-1. **Black Friday Sale Analysis**
+1. **Black Friday Sale Data Analysis**
    - Analyzed sales data to understand customer purchasing behavior during Black Friday sales.
    - Utilized various Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data manipulation and visualization.
    - Extracted insights to help businesses optimize their sales strategies.
@@ -29,7 +29,7 @@ Here are some projects I've worked on:
 
 ## Get in Touch
 
-I'm always eager to collaborate on new projects or discuss exciting opportunities. Feel free to reach out to me via [email](mailto:akuldatt08@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/akul-datt-02b563219/).
+I'm always eager to collaborate on new projects or discuss exciting opportunities. Feel free to reach out to me via [email](akuldatt08@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/akul-datt-02b563219/).
 
 Thanks for visiting! 😊
 

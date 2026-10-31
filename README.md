@@ -1,39 +1,21 @@
-# Hi there! 👋 I'm Akul Datt
+# 💫 About Me:
+### 👋 Hi, I'm Akul Datt, an Aspiring Data Analyst from Delhi<br><br>- 🔭 I'm currently working on **data analysis projects** with Excel, SQL, Python & Power BI<br>- 👯 I'm looking to collaborate on **real-world data analytics, ML & GenAI projects**<br>- 🤝 I'm looking for help with **advanced SQL, Machine Learning, GenAI & business case studies**<br>- 🌱 I'm currently learning **Tableau, Machine Learning & Generative AI** (pursuing MCA at IGNOU)<br>- 💬 Ask me about **Excel, SQL, Python, Pandas, Data Visualization**<br>- ⚡ Fun fact: I don't stop at "what happened", I keep digging until I find *why* it happened
 
-Welcome to my GitHub profile! I'm a recent BCA graduate with a passion for data analysis and data science. Currently, I'm honing my skills in these areas and actively seeking opportunities to apply them in real-world scenarios.
 
-## About Me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akuldatt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akuldatt) 
 
-- 🎓 BCA Graduate
-- 💼 Aspiring Data Analyst & Data Scientist
-- 🌱 Constantly learning and exploring new concepts
-- 💻 Proficient in Python and its libraries for data analysis: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+# 💻 Tech Stack:
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=akuldatt&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=akuldatt&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=akuldatt&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Projects
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Here are some projects I've worked on:
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=akuldatt&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-1. **Black Friday Sale Data Analysis**
-   - Analyzed sales data to understand customer purchasing behavior during Black Friday sales.
-   - Utilized various Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data manipulation and visualization.
-   - Extracted insights to help businesses optimize their sales strategies.
-
-2. **Heart Disease Data Analysis**
-   
-
-## What I'm Currently Learning
-
-- Advanced machine learning algorithms
-- Deep learning frameworks like TensorFlow and PyTorch
-- Big data technologies such as Apache Spark
-
-## Get in Touch
-
-I'm always eager to collaborate on new projects or discuss exciting opportunities. Feel free to reach out to me via [email](mailto:akuldatt08@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/akul-datt-02b563219/).
-
-Thanks for visiting! 😊
-
-<!---
-akuldatt/akuldatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
